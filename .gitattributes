@@ -1,1 +1,2 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
+BINANCE_FUTURES_1m_2024-10_to_2026-10.zip filter=lfs diff=lfs merge=lfs -text
+BINANCE_FUTURES_5m_2024-10_to_2026-10.zip filter=lfs diff=lfs merge=lfs -text
