@@ -2,6 +2,8 @@
 
 This repository contains the five ZIP archives supplied for upload. The files are preserved as provided; SHA-256 hashes are listed in [`SHA256SUMS.txt`](https://raw.githubusercontent.com/Viralchemist/binance-futures-historical-data-2024-10-to-2026-10/main/SHA256SUMS.txt).
 
+For agents that cannot open ZIP archives, use the [plain-text CSV/JSON/Markdown index](https://raw.githubusercontent.com/Viralchemist/binance-futures-historical-data-2024-10-to-2026-10/main/readable_data/README.md). It links to the full hourly and funding CSVs, extracted audit reports, and compact 1m/5m previews.
+
 | Archive | Download |
 |---|---|
 | 1-minute futures data (Git LFS) | [Download ZIP](https://github.com/Viralchemist/binance-futures-historical-data-2024-10-to-2026-10/raw/refs/heads/main/BINANCE_FUTURES_1m_2024-10_to_2026-10.zip) |

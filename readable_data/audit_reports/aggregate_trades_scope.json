@@ -1,0 +1,6 @@
+{
+  "sample_url": "https://data.binance.vision/data/futures/um/monthly/aggTrades/BTCUSDT/BTCUSDT-aggTrades-2025-01.zip",
+  "sample_compressed_bytes": 692363439,
+  "downloaded": false,
+  "reason": "One BTCUSDT month is already hundreds of MB compressed; collecting all symbols and months is not practical within the current dataset task. No claim of completeness."
+}

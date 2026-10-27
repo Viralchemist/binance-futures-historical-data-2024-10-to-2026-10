@@ -1,0 +1,21 @@
+symbol,row_count,first_funding_utc,last_funding_utc,duplicate_funding_times,missing_mark_price_rows,archive_matched_rows,archive_rate_mismatches,unexpected_funding_gaps,max_gap_hours,notes
+BTCUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+ETHUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+BNBUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+SOLUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+XRPUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+ADAUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+DOGEUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+LINKUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+LTCUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+DOTUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+AVAXUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+TRXUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+BCHUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+NEARUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+APTUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+ARBUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+OPUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+SUIUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+INJUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
+FILUSDT,2190,2024-10-19T00:00:00+00:00,2026-10-18T16:00:00+00:00,0,0,2136,0,0,8.000004444444444,gap flag uses previous matched archive funding_interval_hours; archive timestamp match tolerance 10 seconds
